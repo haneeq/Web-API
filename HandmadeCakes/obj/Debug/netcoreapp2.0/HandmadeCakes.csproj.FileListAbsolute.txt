@@ -1,0 +1,11 @@
+G:\HandmadeCakes\HandmadeCakes\HandmadeCakes\bin\Debug\netcoreapp2.0\HandmadeCakes.deps.json
+G:\HandmadeCakes\HandmadeCakes\HandmadeCakes\bin\Debug\netcoreapp2.0\HandmadeCakes.runtimeconfig.json
+G:\HandmadeCakes\HandmadeCakes\HandmadeCakes\bin\Debug\netcoreapp2.0\HandmadeCakes.runtimeconfig.dev.json
+G:\HandmadeCakes\HandmadeCakes\HandmadeCakes\bin\Debug\netcoreapp2.0\HandmadeCakes.dll
+G:\HandmadeCakes\HandmadeCakes\HandmadeCakes\obj\Debug\netcoreapp2.0\HandmadeCakes.csprojAssemblyReference.cache
+G:\HandmadeCakes\HandmadeCakes\HandmadeCakes\obj\Debug\netcoreapp2.0\HandmadeCakes.csproj.CoreCompileInputs.cache
+G:\HandmadeCakes\HandmadeCakes\HandmadeCakes\obj\Debug\netcoreapp2.0\HandmadeCakes.AssemblyInfoInputs.cache
+G:\HandmadeCakes\HandmadeCakes\HandmadeCakes\obj\Debug\netcoreapp2.0\HandmadeCakes.AssemblyInfo.cs
+G:\HandmadeCakes\HandmadeCakes\HandmadeCakes\bin\Debug\netcoreapp2.0\HandmadeCakes.pdb
+G:\HandmadeCakes\HandmadeCakes\HandmadeCakes\obj\Debug\netcoreapp2.0\HandmadeCakes.dll
+G:\HandmadeCakes\HandmadeCakes\HandmadeCakes\obj\Debug\netcoreapp2.0\HandmadeCakes.pdb
